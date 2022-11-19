@@ -1,0 +1,169 @@
+{
+    "Computadoras": [
+        {
+            "id" : 1,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/eva1.png",
+            "category" : "Streamer"
+        }
+        ,
+        {
+            "id" : 2,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/b1.jpg",
+            "category" : "Streamer"
+        }
+        ,
+        {
+            "id" : 3,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/34c57d688b48854cd7142c2c9a61c596.png",
+            "category" : "Streamer"
+        }
+        ,
+        {
+            "id" : 4,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/895c1d725388c7577043166673fa4f35.png",
+            "category" : "Streamer"
+        }
+        ,
+        {
+            "id" : 5,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/b33749817d26838d263a12f4ba6cfbbb.png",
+            "category" : "Streamer"
+        }
+        ,
+        {
+            "id" : 6,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/thumb_22632ef2e5cac4cacd0a1403cae21a9c.png",
+            "category" : "Streamer"
+        }
+        ,
+        {
+            "id" : 7,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/f78df72266935e18f36b983e516ffa9c.png",
+            "category" : "Streamer"
+        }
+        ,
+        {
+            "id" : 8,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/c1.png",
+            "category" : "Custom"
+        }
+        ,
+        {
+            "id" : 9,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/cs2.png",
+            "category" : "Custom"
+        }
+        ,
+        {
+            "id" : 10,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/cs3.png",
+            "category" : "Custom"
+        }
+        ,
+        {
+            "id" : 11,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s8.jpg",
+            "category" : "Custom"
+        }
+        ,
+        {
+            "id" : 12,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/cs5.png",
+            "category" : "Custom"
+        }
+        ,
+        {
+            "id" : 13,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/cs6.png",
+            "category" : "Custom"
+        }
+        ,
+        {
+            "id" : 14,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/cs7.png",
+            "category" : "Custom"
+        },
+        {
+            "id" : 15,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s1.png",
+            "category" : "Gaming"
+        }
+        ,
+        {
+            "id" : 16,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s2.png",
+            "category" : "Gaming"
+        }
+        ,
+        {
+            "id" : 17,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s3.png",
+            "category" : "Gaming"
+        }
+        ,
+        {
+            "id" : 18,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s4.png",
+            "category" : "Gaming"
+        }
+        ,
+        {
+            "id" : 19,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s5.png",
+            "category" : "Gaming"
+        }
+        ,
+        {
+            "id" : 20,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s6.png",
+            "category" : "Gaming"
+        },
+        {
+            "id" : 21,
+            "title" : "Pc Evangelion (Streamer)",
+            "price" : 80.99,
+            "image" : "http://localhost/LaravelLabs/public/assets/IMG/s7.png",
+            "category" : "Gaming"
+        }
+    ]
+}
